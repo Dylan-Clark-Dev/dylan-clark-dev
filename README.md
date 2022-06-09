@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Dylan Clark
 
 - 🔭 Hoje trabalho como fullstack
-- 🌱 Estudando Php
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
 <div>
