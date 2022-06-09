@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Dylan Clark
+<br>
 
 - 🔭 Hoje trabalho como fullstack
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
+<br>
 
 <div>
 <a href="https://github.com/dylan-clark-dev/github-readme-stats">
